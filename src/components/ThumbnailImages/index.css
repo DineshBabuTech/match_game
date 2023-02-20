@@ -1,0 +1,14 @@
+.thum-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+.thum-list-item {
+  list-style-type: none;
+}
+.thumb-img {
+  width: 130px;
+  height: 130px;
+}

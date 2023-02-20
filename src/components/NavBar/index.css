@@ -1,0 +1,38 @@
+.nav-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #2c0e3a;
+  margin: auto;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.logo {
+  width: 200px;
+  height: 40px;
+}
+.timer-img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.timer-cont {
+  display: flex;
+  align-items: center;
+}
+.score-timer-cont {
+  display: flex;
+  align-items: center;
+}
+.score {
+  color: #ffffff;
+  margin-right: 30px;
+  font-size: 18px;
+}
+.timer {
+  color: #fec653;
+  font-size: 23px;
+  font-weight: 500;
+}

@@ -1,0 +1,88 @@
+.app-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+  font-family: 'Roboto';
+}
+.scorecard-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  background-size: cover;
+  border-radius: 10px;
+  padding-top: 250px;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 80px;
+}
+.score-text {
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.reset-btn {
+  background-color: #cf60c8;
+  border: none;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 400;
+  border-radius: 15px;
+  outline: none;
+  cursor: pointer;
+}
+.reset-img {
+  margin-right: 10px;
+}
+.final-score {
+  color: #ffffff;
+  font-size: 55px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+.trophy {
+  width: 70%;
+}
+.navbar-cont {
+  padding-left: 0px;
+}
+.responsive-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+.img-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.img {
+  width: 50vw;
+  border-radius: 5px;
+}
+
+.tab-cont {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+}
+.cont2 {
+  padding-left: 0px;
+}
+.thumbnail-cont {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 60vw;
+  padding-left: 0px;
+}
